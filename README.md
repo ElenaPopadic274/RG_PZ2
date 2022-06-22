@@ -1,4 +1,5 @@
 # RAČUNARSKA GRAFIKA(SOFTVER SA KRITIČNIM ODZIVOM U ELEKTROENERGETSKIM SISTEMIMA) | COMPUTER GRAPHICS (CRITICAL RESPONSE SOFTWARE IN POWER SYSTEMS)
+# School project - Faculty of Technical Science
 
 Cilj drugog predmetnog zadatka je postavljanje elemenata elektroenergetske mreže na 3D mapu. Mapu je potrebno postaviti 
 kao 2D sliku - ploču na dnu scene. Entiteti će se postavljati na odgovarajuće koordinate na mapi, na osnovu podataka iz 
@@ -39,8 +40,6 @@ druga – od 3 do 5; treća – vise od 5 konekcija.
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- # COMPUTER GRAPHICS (CRITICAL RESPONSE SOFTWARE IN POWER SYSTEMS) | COMPUTER GRAPHICS (CRITICAL RESPONSE SOFTWARE IN POWER SYSTEMS) 
-
 The goal of the second subject task is to place the elements of the electric power network on a 3D map. The map needs 
 to be set up as a 2D image - a board at the bottom of the scene. The entities will be placed at the appropriate coordinates 
 on the map, based on data from the Geographic.xml file. The lower left corner of the map has coordinates lat: 45.2325, 
